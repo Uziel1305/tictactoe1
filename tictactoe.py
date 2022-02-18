@@ -119,5 +119,5 @@ def play_game(board_size: int = None):
     show_winner(current_player)
 
 
-if __name__ == '__main__':
-    play_game()
+
+play_game()
