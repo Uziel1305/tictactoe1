@@ -1,7 +1,7 @@
 import random
 
-X = "X"
-O = "O"
+X = "x"
+O = "o"
 EMPTY = "*"
 
 # Bigger board sizes are less likely
